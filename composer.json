@@ -1,0 +1,19 @@
+{
+    "name": "b/b",
+    "description": "hello world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yacov-Marsha",
+            "email": "52193952+Yacov-Marsha@users.noreply.github.com"
+        }
+    ],
+    "require": {
+	"a": "*"
+	},
+	"repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/yacov-m/"},
+        {"packagist.org": false}
+    ]
+}
