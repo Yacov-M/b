@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-	"a": "*"
+	"a/a": "*"
 	},
 	"repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/yacov-m/"},
